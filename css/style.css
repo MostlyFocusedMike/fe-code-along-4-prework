@@ -123,3 +123,12 @@ margin-left: 0;
    height: 0;
    line-height: 0;
 }
+
+
+/* SOCIAL */
+#social {
+  position: fixed;
+  width: 40px;
+  right: 20px;
+  z-index: 1;
+}
