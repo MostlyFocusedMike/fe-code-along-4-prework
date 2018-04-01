@@ -88,4 +88,5 @@ figcaption {
 }
 .col-3 {
   width: 100%;
+  background: #ccc;
 }
