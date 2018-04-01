@@ -87,11 +87,6 @@ img, video, audio {
   background: #777;
 }
 
-section {
-  padding: 20px;
-  margin-bottom: 20px;
-}
-
 .col-1 {
   float: left;
   width: 32%;
@@ -123,8 +118,15 @@ margin-left: 0;
    height: 0;
    line-height: 0;
 }
+/* SECTIONS///////////////////*/
+header {
+  position: fixed;
+}
 
-
+section {
+  padding: 20px;
+  margin-bottom: 20px;
+}
 /* SOCIAL */
 #social {
   position: fixed;
