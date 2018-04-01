@@ -82,6 +82,11 @@ img, video, audio {
   background: #777;
 }
 
+section {
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
 .col-1 {
   float: left;
   width: 32%;
