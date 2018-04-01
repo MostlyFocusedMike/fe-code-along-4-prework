@@ -121,6 +121,9 @@ margin-left: 0;
 /* SECTIONS///////////////////*/
 header {
   position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
 }
 
 section {
